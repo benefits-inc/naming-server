@@ -1,6 +1,7 @@
 # naming-server
 eureka naming server
 
+- config-client 설정 없으므로 주석 처리
 
 ### build
 ```bash
