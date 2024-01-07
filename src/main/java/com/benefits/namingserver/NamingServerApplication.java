@@ -8,7 +8,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 @EnableEurekaServer
 public class NamingServerApplication {
 
-	// commit cicd scm test
+	// commit cicd scm test - 2
 	public static void main(String[] args) {
 		SpringApplication.run(NamingServerApplication.class, args);
 	}
